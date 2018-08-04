@@ -1,0 +1,10 @@
+*sqlite3
+*.db
+_pycache__
+*.pyc
+*.pyo
+bin
+include
+lib
+media
+
